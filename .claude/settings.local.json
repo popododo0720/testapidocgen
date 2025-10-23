@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/coremax/.gradle/caches/modules-2/files-2.1/org.webjars/swagger-ui/**)",
+      "Bash(unzip:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

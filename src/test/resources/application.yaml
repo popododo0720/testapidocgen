@@ -1,0 +1,6 @@
+restdocs:
+  outputDir: build/generated-snippets
+
+  openApi3:
+    outputDir: build/openapi3
+    fileName: openapi.json
